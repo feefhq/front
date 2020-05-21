@@ -3,6 +3,7 @@ I've collected some of the best learning resources for gaining skills in modern 
 ## JavaScript
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
 
 ## React
 
